@@ -1,2 +1,2 @@
 # trend-following
-To find and apply trend following strategy of stocks in KOSPI and KOSDAQ
+To find and apply trend following strategy to stocks in KOSPI and KOSDAQ
