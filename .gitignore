@@ -1,3 +1,7 @@
+daily/
+monthly/
+weekly/
+### BELOW: default for python
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
