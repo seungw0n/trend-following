@@ -6,7 +6,7 @@ To find and apply trend following strategy stocks in KOSPI and KOSDAQ
     .
 
 #
-> **_Terminology_**
+> **_Terminology_**<br />
     KOSPI: The Korea Composite Stock Price Index (=Dow Jones in the US)<br />
     KOSDAQ: The Korean Securities Delears Automated Quotations (=NASDAQ in the US)
 
