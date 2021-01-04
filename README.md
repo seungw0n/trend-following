@@ -2,8 +2,7 @@
 To find and apply trend following strategy stocks in KOSPI and KOSDAQ
 
 > ###**_Version Notes_**<br /><br />
-    . Jan 02 2020 : Create a repository, add files main.py and data_processing.py
-    .
+    Jan 02 2020 : Create a repository, add files main.py and data_processing.py
 
 #
 > ###**_Terminology_**<br /><br />
@@ -12,9 +11,9 @@ To find and apply trend following strategy stocks in KOSPI and KOSDAQ
 
 #
 > ###**_Data_**<br /><br />
-    Assume that directory data contains three sub-directories: daily, monthly, and weekly.
-    Data represents records-history of all stocks from KOSPI and KOSDAQ in daily, monthly, and weekly, respectively.
-        - All data are set as ignoring files dut to copyright reasons.
+    Assume that directory data contains three sub-directories: daily, monthly, and weekly.<br />
+    Data represents records-history of all stocks from KOSPI and KOSDAQ in daily, monthly, and weekly, respectively.<br />
+        - All data are set as ignoring files dut to copyright reasons.<br />
     Data came from APIs that are provided by some Korean Investments Company: Kiwoom, Creon, and etc.<br />
 #
 > ###**_File Structure_**<br /><br />
