@@ -17,18 +17,16 @@ To find and apply trend following strategy stocks in KOSPI and KOSDAQ
         - All data are set as ignoring files dut to copyright reasons.
     Data came from APIs that are provided by some Korean Investments Company: Kiwoom, Creon, and etc.<br />
 #
-###3. File Structure
-    .
-    ├── main.py                 # Compiled files
-    ├── docs                    # Documentation files // Will be added
-    ├── data                    # Data files
-    ├── src                     # Source files // Will be added
-    ├── test                    # Automated tests // Will be added
-    ├── tools                   # Tools and utilities
-    │   ├── data_processing.py
-    ├── LICENSE
-    └── README.md
-   
+> **_File Structure_**<br />
+    ├── main.py                 # Compiled files<br />
+    ├── docs                    # Documentation files // Will be added<br />
+    ├── data                    # Data files<br />
+    ├── src                     # Source files // Will be added<br />
+    ├── test                    # Automated tests // Will be added<br />
+    ├── tools                   # Tools and utilities<br />
+    │   ├── data_processing.py<br />
+    ├── LICENSE<br />
+    └── README.md<br />
 
 #
 If you are interesting on this project, don't hesitate to contact me, seung.joeng@mail.mcgill.ca
